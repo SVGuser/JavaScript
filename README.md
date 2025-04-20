@@ -8,3 +8,5 @@ https://leetcode.com/problems/group-by/?envType=study-plan-v2&envId=30-days-of-j
 https://leetcode.com/problems/sort-by/submissions/1611229260/?envType=study-plan-v2&envId=30-days-of-javascript
 # 2722. Join Two Arrays By ID
 https://leetcode.com/problems/join-two-arrays-by-id/description/?envType=study-plan-v2&envId=30-days-of-javascript
+# 2625. Flatten Deeply Nested Array
+https://leetcode.com/problems/flatten-deeply-nested-array/submissions/1612332565/?envType=study-plan-v2&envId=30-days-of-javascript
