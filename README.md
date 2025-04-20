@@ -10,3 +10,5 @@ https://leetcode.com/problems/sort-by/submissions/1611229260/?envType=study-plan
 https://leetcode.com/problems/join-two-arrays-by-id/description/?envType=study-plan-v2&envId=30-days-of-javascript
 # 2625. Flatten Deeply Nested Array
 https://leetcode.com/problems/flatten-deeply-nested-array/submissions/1612332565/?envType=study-plan-v2&envId=30-days-of-javascript
+# 2705. Compact Object
+https://leetcode.com/problems/compact-object/submissions/1612342900/?envType=study-plan-v2&envId=30-days-of-javascript
