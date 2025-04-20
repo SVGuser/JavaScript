@@ -6,3 +6,5 @@ https://leetcode.com/problems/array-prototype-last/description/?envType=study-pl
 https://leetcode.com/problems/group-by/?envType=study-plan-v2&envId=30-days-of-javascript
 # 2724. Sort by: 
 https://leetcode.com/problems/sort-by/submissions/1611229260/?envType=study-plan-v2&envId=30-days-of-javascript
+# 2722. Join Two Arrays By ID
+https://leetcode.com/problems/join-two-arrays-by-id/description/?envType=study-plan-v2&envId=30-days-of-javascript
