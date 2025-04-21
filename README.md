@@ -12,3 +12,5 @@ https://leetcode.com/problems/join-two-arrays-by-id/description/?envType=study-p
 https://leetcode.com/problems/flatten-deeply-nested-array/submissions/1612332565/?envType=study-plan-v2&envId=30-days-of-javascript
 # 2705. Compact Object
 https://leetcode.com/problems/compact-object/submissions/1612342900/?envType=study-plan-v2&envId=30-days-of-javascript
+# 2694. Event Emitter
+https://leetcode.com/problems/event-emitter/description/?source=submission-noac
