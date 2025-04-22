@@ -16,3 +16,5 @@ https://leetcode.com/problems/compact-object/submissions/1612342900/?envType=stu
 https://leetcode.com/problems/event-emitter/description/?source=submission-noac
 # 2695. Array Wrapper
 https://leetcode.com/problems/array-wrapper/description/?envType=study-plan-v2&envId=30-days-of-javascript
+# React - hackerrank
+https://www.hackerrank.com/challenges/react-slideshow-1/problem?isFullScreen=true
