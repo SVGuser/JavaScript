@@ -18,3 +18,5 @@ https://leetcode.com/problems/event-emitter/description/?source=submission-noac
 https://leetcode.com/problems/array-wrapper/description/?envType=study-plan-v2&envId=30-days-of-javascript
 # React - hackerrank
 https://www.hackerrank.com/challenges/react-slideshow-1/problem?isFullScreen=true
+# 2726. Calculator with Method Chaining
+https://leetcode.com/problems/calculator-with-method-chaining/submissions/1616261770/?envType=study-plan-v2&envId=30-days-of-javascript
